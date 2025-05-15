@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Tunisia Travel Wishlist',
+      title: 'Tuniapp',
       theme: ThemeData(
         primarySwatch: Colors.teal,
         fontFamily: 'Roboto',
